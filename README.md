@@ -1,4 +1,4 @@
-# LaScientotheque
+# La Scientothèque
 
 Exemples de ressources en lien avec l'IA développées par la Scientothèque:
 
